@@ -1,0 +1,118 @@
+body{
+   background-color: rgb(71, 69, 69);
+  
+  }
+  h2{
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 10px 20px 80px 10px rgb(228, 24, 24);
+    color: orange;
+    font-size: 35px;
+    background-color: white;
+    border-radius: 70%;
+  }
+  .em-1{
+   font-size: 17px;
+   font-weight: bold;
+   color: orange;
+   line-height: 2px;
+   
+  }
+  .Inp-3{
+    line-height: 2px;
+  height: 20px;
+  width: 250px;
+  border-radius: 90px;
+  font-size: 15px;
+  background-color: rgb(218, 216, 213);
+  border: inset;
+  border-color: rgb(167, 20, 20);
+  
+  
+  
+  }
+  .Inp-3:hover{
+    background-color: rgb(161, 125, 57);
+  }
+  .but-1{
+   margin-top: 20px;
+   height:30px;
+   width: 70px;
+   background-color: rgb(216, 207, 207);
+   border-radius:3px;
+  font-weight: bold;
+   color: blue;
+   font-size: 25px;
+   font-style: italic;
+   border: 3px;
+  }
+  .but-2{
+    height: 30px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(58, 179, 219);
+    font-size: 21px;
+    color: white;
+    border: 2px;
+    border-radius: 3px;
+  }
+  .but-3{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(58, 179, 219);
+    font-size: 21px;
+    color: white;
+    border: 2px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .div-1{
+  text-align: center;
+  
+  }
+  .div-2{
+  text-align: center;
+  
+  border: 20px;
+  border-radius: 34px;
+  }
+  .but-1:hover{
+    background-color: rgb(230, 174, 71);
+  }
+  .but-2:hover{
+    background-color: rgb(230, 174, 71);
+  }
+  .but-3:hover:hover{
+    background-color: rgb(230, 174, 71);
+  }
+  .p-1{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+  }
+  .paynow-1{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 200px;
+    border: none;
+  border-radius: 25px;
+  font-size: 17px;
+  font-weight: bold;
+  font-style: italic;
+
+  }
+  .paynow{
+    text-align: center;
+    line-height: 55px;
+   
+  
+  }
+  .paynow-1:hover{
+    background-color: rgb(202, 133, 5);
+    transition: background-color 1s;
+  }
